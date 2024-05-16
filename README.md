@@ -5,7 +5,7 @@
 # Introduction
 Jelko is a multinational e-commerce organization with branches worldwide, but they are focusing on analyzing their sales specifically in the United States.
 
-Disclaimer
+# Disclaimer
 All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities.
 
 # Problem statement
