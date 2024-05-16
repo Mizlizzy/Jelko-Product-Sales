@@ -5,6 +5,9 @@
 # Introduction
 Jelko is a multinational e-commerce organization with branches worldwide, but they are focusing on analyzing their sales specifically in the United States.
 
+Disclaimer
+All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities.
+
 # Problem statement
 The organisation goal is Conduct Sales Analysis: They aim to track sales trends over time, identify top-performing products or categories, and spot growth opportunities.
 Evaluating Payment Methods: They want to assess how different payment methods impact customer preferences and revenue generation.
