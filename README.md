@@ -14,7 +14,7 @@ The organization aims to analyze sales data based on various geographic location
 # Jelko Product Sales Dashboard 
 ![image](https://github.com/Mizlizzy/Jelko-Product-Sales/assets/125541494/ab02327b-be61-4cde-95c1-f9ae18a52ea8)
 
-Using Tableau for analysis, we've examined 200 transactions. The most popular product is books, with 70,918 units sold. California stands out as the location with the highest sales. Looking at sales trends, June emerges as the peak month, with sales reaching 49,121 units.
+Using Tableau for analysis, we've examined 200 transactions. The most popular product is books, with $70,918 units sold. California stands out as the location with the highest sales. Looking at sales trends, June emerges as the peak month, with sales reaching $49,121 units.
 
 # Recommendation
 
